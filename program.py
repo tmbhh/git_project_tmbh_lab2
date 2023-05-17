@@ -1,4 +1,4 @@
-#2023 (c) meee
+#2023 (c) meee gg
 print("russia is sexxx!!!")
 #im tmbh!
 
